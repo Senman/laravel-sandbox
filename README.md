@@ -4,7 +4,7 @@
 2.  Učit se
 3.  Učit se
 
-Neplatí-li bod 1, platí ty následující. Dokumentace na [example link](http://www.laravel.com "Tady je věcí :-)")
+Neplatí-li bod 1, platí ty následující. Dokumentace na [laravel.com](http://www.laravel.com/ "Tady je věcí :-)")
 
 ## Jak na to
 
