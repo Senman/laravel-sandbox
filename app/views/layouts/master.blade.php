@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="cz">
 
 <head>
 
@@ -12,13 +12,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="description" content="">
+<meta name="description" content="Moje první pokusy">
 
-<meta name="author" content="">
+<meta name="author" content="Petr">
 
 
 
-<title> test </title>
+<title>Moje první pokusy s Laravelem</title>
 
 
 
