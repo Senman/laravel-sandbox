@@ -1,37 +1,18 @@
 # laravel-sandbox
 
-1.  Red
-2.  Green
-3.  Blue
+1.  Učit se
+2.  Učit se
+3.  Učit se
 
+Neplatí-li bod 1, platí ty následující. Dokumentace na [example link](http://www.laravel.com "Tady je věcí :-)")
 
+## Jak na to
 
-*   Candy.
-*   Gum.
-*   Booze.
+### První úkoly
 
-
-
-## Nadpis 2 TEXT
-
-### Pod nadpis 3
-
-
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
-ljdhsgfk jdslag hdklsjgh kljdsg ljdhsgfk jdslag hdklsjgh kljdsg 
+* naučit se s GITem
+* naučit se markdown
+ 
 
 
 I get 10 times more traffic from [Google][1] than from
